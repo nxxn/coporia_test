@@ -52,3 +52,4 @@ gem 'awesome_print'
 gem 'haml'
 gem 'heroku'
 gem 'pg'
+gem 'rails_12factor', group: :production
